@@ -3,8 +3,16 @@
 1.控制篇
 
 1）非root篇
-A：使用autojs，升级版autoxjs
+A：使用无障碍，autojs，升级版autoxjs。
+优势:无root，所有的安卓机型都可以用。
+劣势:某些app对于无障碍有监测，导致会存在一些出现类似于滑块的东西出现。以大麦为明显。
 http://doc.autoxjs.com/#/http
+
+http://doc.autoxjs.com/#/?id=%e7%bb%bc%e8%bf%b0
+学习参考：
+飞云脚本学院：
+[http://www.feiyunjs.com/autox](http://www.feiyunjs.com/autox)
+
 
 2）root篇
 
