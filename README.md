@@ -3,6 +3,8 @@
 1.控制篇
 
 1）非root篇
+A：使用autojs，升级版autoxjs
+http://doc.autoxjs.com/#/http
 
 2）root篇
 
