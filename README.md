@@ -15,6 +15,13 @@ http://doc.autoxjs.com/#/?id=%e7%bb%bc%e8%bf%b0
 飞云脚本学院：
 [http://www.feiyunjs.com/autox](http://www.feiyunjs.com/autox)
 
+视频：  
+
+<video src="https://github.com/jacket230/dm/blob/main/img/2318_1698484421.mp4" autoplay="true" controls="controls" width="800" height="600">
+</video>
+<video controls="controls" name="media">
+    <source src="https://www.w3school.com.cn/example/html5/mov_bbb.mp4" type="video/mp4">
+</video>
 
 **2）root篇**
 
