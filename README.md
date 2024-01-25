@@ -46,11 +46,13 @@ https://blog.csdn.net/q2919761440/article/details/133775618?utm_medium=distribut
 
 
 **3.余票监控：**  
-参考：
-https://github.com/Raptor-wxw/TicketMonitoring  
+参考：  
+大麦、猫眼、纷玩岛，演唱会回流票监控：https://github.com/Raptor-wxw/TicketMonitoring  
 
-https://github.com/caizhimin/Damai_ticket/blob/main/piaoxingqiu_ticket.py
+票星球余票监控：https://github.com/caizhimin/Damai_ticket/blob/main/piaoxingqiu_ticket.py
 
 研究不易，请多关照。
 
-入群不迷路。q群q：955767910
+
+入群不迷路。q群q：955767910  
+<img src="https://github.com/jacket230/dm/blob/main/img/qqunqu-qrcode.jpg" width = "300"  alt="" align=center />
