@@ -51,3 +51,6 @@ https://github.com/Raptor-wxw/TicketMonitoring
 
 https://github.com/caizhimin/Damai_ticket/blob/main/piaoxingqiu_ticket.py
 
+研究不易，请多关照。
+
+入群不迷路。q群q：955767910
