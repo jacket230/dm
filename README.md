@@ -1,6 +1,6 @@
 已迁移: https://github.com/damaiqiangpiao/damai
 
-抢票说明（大麦、猫眼、纷玩岛），分几个流派。
+抢票说明（大麦、猫眼、纷玩岛），分几个流派。v3
 
 **一.控制篇**  
 **1.非root篇**  
