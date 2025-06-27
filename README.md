@@ -97,4 +97,6 @@ https://blog.csdn.net/zhangmiaoping23/article/details/105827285
 
 已迁移: https://github.com/damaiqiangpiao/damai  
 入群不迷路。q群q：955767910  
-<img src="https://github.com/jacket230/dm/blob/main/img/qqunqu-qrcode.jpg" width = "300"  alt="" align=center />
+<img src="https://github.com/jacket230/dm/blob/main/img/qqunqu-qrcode.jpg" width = "300"  alt="" align=center />  
+
+<img src="https://github.com/jacket230/dm/blob/main/img/3qun.jpg" width = "300"  alt="" align=center />    
